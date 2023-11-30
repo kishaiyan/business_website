@@ -1,0 +1,70 @@
+/* Admin.css */
+
+
+
+.menu-container {
+  background-color: rgb(235, 131, 110);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 0px solid white;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-right:10px;
+}
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto; /* Push the footer to the bottom */
+  width: 100%;
+}
+
+
+.left-menu {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.right-menu {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logo {
+  /* Set width and height to 5rem (5 times the font size) */
+  width: 5rem;
+  height: 5rem;
+}
+
+.logo img {
+  /* Ensure the image inside the logo container takes up 100% of its parent's dimensions */
+  border: 0px;
+  border-radius: 50px;
+  margin-top: 15px;
+  width: 60%;
+  object-fit: contain; /* Maintain aspect ratio while fitting within the container */
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+button {
+  flex: 1;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  font-size: 16px;
+  color: whitesmoke;
+  margin-right: 40px;
+}
+
+

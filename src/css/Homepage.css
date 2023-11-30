@@ -1,0 +1,152 @@
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content horizontally */
+}
+
+.slide-show {
+  width: 100%; /* Assuming you want the slider to take the full width */
+}
+.heading{
+  margin-bottom:10px ;
+}
+.about {
+  display: flex;
+  border: 1px solid #ddd; /* Border for the box */
+  background-color: rgba(173, 37, 7, 0.7); /* Red background color */
+  padding: 20px; /* Adjust the padding as needed */
+  margin-right:10px;
+  margin-top:5px;
+  border: 1px solid white;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.image img {
+  width: 55%; /* Make sure the image takes up the full width of its container */
+}
+
+.image{
+  margin-top:40px;
+}
+
+.paragraph {
+  flex: 2;
+  text-align: justify;
+  color: white;
+  margin-right: 20px;
+
+}
+
+.industries {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f0b399; 
+  margin-top:10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-bottom-left-radius:25px ;
+  border-top-left-radius: 25px;
+}
+
+.Serving {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  /* Ivory background color */
+  padding: 20px;
+}
+
+.left,
+.right {
+  width: 60%; /* Adjust the width as needed */
+  border: 0px solid #ddd; /* Border for the box */
+  background-color:#7a3d22;
+  color: white; /* Box background color */
+  padding: 10px; /* Adjust the padding as needed */
+  margin-bottom: 10px; /* Adjust the margin between boxes */
+  margin-top: 10px;
+}
+
+.left {
+  align-self: flex-start;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  margin-top: 30px;
+ 
+  /* Align left box to the start of the container */
+}
+
+.right {
+  align-self: flex-end; /* Align right box to the end of the container */
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom: 40px;
+
+
+}
+
+.Serving h1 {
+  margin: 0;
+}
+
+.Serving > div > div > div {
+  width: 48%;
+  margin-bottom: 10px;
+}
+
+.Serve-image img {
+  width: 100%;
+}
+
+.text{
+  display: flex;
+  margin-left: 150px;
+  padding-bottom: 30px;
+  padding:0;
+  margin-bottom: 10px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-left {
+  margin-left: 150px;
+  display: flex;
+  align-items: center; /* Vertically center the image within the container */
+  width: 150px;
+  height: 150px;
+  border: 0px solid #000;
+  border-radius: 7px;
+  overflow: hidden;
+ 
+}
+.image-right{
+  margin-right: 150px;
+  display: flex;
+  align-items: center; /* Vertically center the image within the container */
+  width: 150px;
+  height: 150px;
+  border: 0px solid #000;
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+.left p {
+  margin: 0;
+}
+
+.image-left img {
+  margin: 0;
+}
+
+.right p{
+  margin:0;
+}
+
+

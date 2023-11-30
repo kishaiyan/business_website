@@ -1,0 +1,29 @@
+/* ContactPage.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.submitButton {
+  margin-top: 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
