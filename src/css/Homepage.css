@@ -63,7 +63,7 @@
 .right {
   width: 60%; /* Adjust the width as needed */
   border: 0px solid #ddd; /* Border for the box */
-  background-color:#7a3d22;
+  background-color: rgba(173, 37, 7, 0.7);;
   color: white; /* Box background color */
   padding: 10px; /* Adjust the padding as needed */
   margin-bottom: 10px; /* Adjust the margin between boxes */

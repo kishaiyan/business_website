@@ -1,0 +1,130 @@
+
+[
+  {
+  "name":"Modular Belt Conveyor",
+  "image":"https://i.postimg.cc/44FZC7Q4/Modular-Belt-conveyer.jpg",
+  "description":"This conveyor is designed with light-weight components that run on low power. Hence it requires minimal support structures and also reduces energy costs.",
+  "features": [
+    "Our design enables easy replacement of even tiny components.",
+    "Pre-engineered styles prevent dirt accumulation below the belt.",
+    "The positive drive mechanism eliminates spillage and makes it suitable for wet applications."
+  ]
+  },
+  {
+    "name":"Slat Chain Conveyor",
+    "image":"https://i.postimg.cc/Dw1KbCkm/slat-chain.jpg",
+    "description":"Built with stainless steel to maintain hygiene and remain robust, this conveyorhas been specially designed to be used in manufacturing units and bottling plants.",
+    "features":[
+      "Our internal and external components are constructed using AISI 304 Stainless Steel",
+      "The stainless steel fittings make the conveyor operate at a variable speed",
+      "Made using standard components for easy replacement"
+    ]
+  },
+  {
+    "name":"Bucket Elevator Conveyor",
+    "image":"https://i.postimg.cc/7LgYwHYs/bucket-elevator.jpg",
+    "description":"The Bucket Elevator Conveyor has been designed to run efficiently to its maximum power capacity and offer high operational reliability.",
+    "features":[
+      "The chain and pendulum type bucket designs in both horzontal and vertical designs are available to convey a wide range of materials",
+      "Traditional designs with bucket overlap and alternative designs without bucket overlap are also available."
+  ]
+  },
+  {
+    "name":"Crate Handling Conveyor",
+    "image":"https://i.postimg.cc/KzxcY61Z/crate-handling.jpg",
+    "description":"The highly durable and robust Crate Handling Conveyor with improved mechanical strength has been designed to be on par with the industry standards in order to get an efficient output.",
+    "features":[
+      "Specially crafted using stainless steel to work in a wet environment, particularly for use in the dairy industry",
+      "Uses cutiing-edge technology and sturdy construction."
+    ]
+  },
+  {
+    "name":"Cooling Tunnel",
+    "image":"https://i.postimg.cc/gj0YV3yQ/cooling-tunnel.jpg",
+    "description":"Our pasteurizers are designed and fabricated using stainless steel and propylene belt with dual mesh filtration. We use highly efficient thermal machines with the latest thermodynamic technology for temperature control.",
+    "features":["Designed effectively for inhibiting pathogens and micro-organisms and also for halting the growth of yeast.","Transfer of the bottle is smotth because of the dynamic transfer system."]
+    
+  },
+ 
+  {
+    "name":"Fruit & Vegetable Washer",
+    "image":"https://i.postimg.cc/nz3xhC8k/fruit-washer.jpg",
+    "description":"We have specially designed this conveyor system for washing variously leafy vegetables and fruits. It supports agitation in water for dirt removal, air agitation for drying and spraying freshwater.",
+    "features":[
+      "Our internal and external components are constructed using AISI 304 steel ",
+      "The stainless steel fittings make the conveyor operate at a variable speed",
+      "Perforated steel designs are used for easy insertion and removal"
+    ]  
+  },
+  {
+    "name":"Belt Conveyor",
+    "image":"https://i.postimg.cc/x8F9tqtC/belt-conveyer.jpg",
+    "features":["Rugged system for handling a variety of load types.","Transfer of the bottle is smooth because of the dynamic transfer reduction."]
+  },
+  {
+    "name":"Truck Loading Conveyor",
+    "image":"https://i.postimg.cc/mrRW3QBj/truck-loading.jpg",
+    "features":[
+      "Slider bed design for all kinds of applications.",
+      "Assists in the rapid movement of materials.",
+      "Saves time & money through automatin and labor reduction."
+    ]
+  },
+  {
+    "name":"Roller Conveyor",
+    "image":"https://i.postimg.cc/x8q2JnnS/roller-conveyer.jpg",
+    "features":[
+      "It can convey loads mounted on a decline angle.",
+      "Cost Effective solution.",
+      "Used for multiple work stations."
+    ]
+  },
+  {
+    "name":"Spiral Conveyor",
+    "image":"https://i.postimg.cc/mkPvZjyL/spiral-conveyer.jpg",
+    "features":[
+      "Compact construction to save the floor space.",
+      "Transports all the meat and dairy products in a circular/spiral mode.",
+      "A variety of frozen products can be conveyed easily."
+    ]
+  },
+  {
+    "name":"Wire Mesh Conveyor",
+    "image":"https://i.postimg.cc/cHLq20K8/wire-mesh.jpg",
+    "features":[
+    "Enclosed bottom pan with high slide rails.",
+    "High-quality chain-driven metal mesh belts are used.",
+    "Ideal for heal-treated, washed and quenched parts."
+    ]
+  },
+  {
+    "name":"Flexible Chain Conveyor",
+    "image":"https://i.postimg.cc/9XxXWNCh/flexible-chain.jpg",
+    "features":[
+      "Made of Aluminium and offers low friction for multi-flexing.",
+      "All components of the conveyor can be easily fitted using simple hand tools.",
+      "Has excellent tensile strength and is corrosion resistant."
+    ]
+  },
+  {
+    "name":"Collapsible Roller Conveyor",
+    "image":"https://i.postimg.cc/50g4Qsz8/collapsible-roller.jpg",
+    "features":[
+      "Made from premium grade raw materials.",
+      "Widely trusted for efficient conveying of packages.",
+      "Portable and also suitable for handling odd-sized boxes."
+    ]
+  },
+  {
+    "name":"Warehouse Conveyor",
+    "image":"https://i.postimg.cc/TP9MtpP6/warehpuse-con.jpg",
+    "features":[
+      "Robust construction to withstand heavy load.",
+      "Only less maintenance is required.",
+      "Can be used for conveying different sized and weights."
+    ]
+  }
+  
+
+
+]

@@ -3,8 +3,6 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import slides from '../mock.json'; 
 import '../css/Homepage.css';
-
-import Serving from '../assets/Serving.png';
 export default () => {
   return (
     <div className='main-container'>

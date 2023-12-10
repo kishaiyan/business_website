@@ -22,8 +22,12 @@ const Admin = () => {
             <ul className="nav-links">
               <button className='buttonStyle' onClick={() => setActiveSection('home')}>Home</button>
               <button className='buttonStyle' onClick={() => setActiveSection('products')}>Products</button>
-              <button className='buttonStyle' onClick={() => setActiveSection('contact')}>Contact</button>
-              <button className='buttonStyle' onClick={() => setActiveSection('aboutus')}>AboutUs</button>
+              <button className='buttonStyle' onClick={() => setActiveSection('GetQuote')} dangerouslySetInnerHTML={{__html:'Get&nbsp;Quote'}}></button>
+              <button className='buttonStyle' onClick={() => setActiveSection('ContactUs')}
+              dangerouslySetInnerHTML={{ __html: 'Contact&nbsp;Us' }}
+            ></button>
+            
+            
             </ul>
           </nav>
         </div>
@@ -34,15 +38,17 @@ const Admin = () => {
         </header>
         {activeSection === 'home' && <Home />}
         {activeSection === 'products' && <Product />}
-        {activeSection === 'contact' && <ContactPage />}
-        {activeSection === 'aboutus' && <About />}
+        {activeSection === 'GetQuote' && <ContactPage />}
+        {activeSection === 'ContactUs' && <About />}
         
         {/* Footer */}
-        <div className='footer'>
-          <p>© 2023 Gyrating Associates. All rights reserved.</p>
-          <p>Registered Address: 123 Company Street, Cityville, Country</p>
-          <p>+61 123456789</p>
-        </div>
+        {activeSection !== 'GetQuote' && (
+          <div className='footer'>
+            <p>© 2023 Gyrating Associates. All rights reserved.</p>
+            <p>Registered Address: 123 Company Street, Cityville, Country</p>
+            <p>+61 123456789</p>
+          </div>
+        )}
       </div>
     </div>
   );
